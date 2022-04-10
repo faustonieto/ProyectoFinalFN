@@ -28,7 +28,7 @@
             ],
             "styles": [
               "proyectofinal/node_modules/bootstrap/dist/css/bootstrap.css"
-              "src/styles.css"
+          
             ],
             "scripts": [
               "proyectofinal/node_modules/bootstrap/dist/js/bootstrap.js"
